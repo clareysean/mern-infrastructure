@@ -1,4 +1,4 @@
-# MERN-Stack Infrastructure with JWT Authentication
+# MERN-Stack Infrastructure
 
 Welcome to the MERN-Stack Infrastructure repository. This repository serves as a foundational starting point for building a web application using the MERN (MongoDB, Express, React, Node.js) stack, complete with token-based authentication using JSON Web Tokens (JWT).
 
